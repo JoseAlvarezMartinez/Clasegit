@@ -1,0 +1,23 @@
+*{
+    font-family: "Poppins", serif;
+}
+
+.cryptoComponentContainer{
+    background-color: hsl(216, 50%, 16%);
+    width: 20rem;
+    border-radius: 0.5rem;
+}
+
+.cryptoComponentContainer img{
+    width: 15rem;
+    border-radius: 0.5rem;
+}
+.cryptoTitle{
+    color: #fff;
+}
+.cryptoDescription{
+    color: rgb(128, 128, 128);
+}
+.ethDescription{
+    color: hsl(178, 100%, 50%);
+}
